@@ -27,7 +27,7 @@ Documents (PDF/TXT)
 ```
 
 ## Stack
-
+https://avatars.githubusercontent.com/u/107414600?v=4&size=64
 - **LLM:** Google Gemini 1.5 Flash
 - **Embeddings:** Google Generative AI Embeddings (embedding-001)
 - **Vector Store:** FAISS (CPU)
@@ -39,7 +39,7 @@ Documents (PDF/TXT)
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/rag-pipeline.git
+git clone https://github.com/christianmacedo/rag-pipeline.git
 cd rag-pipeline
 ```
 
