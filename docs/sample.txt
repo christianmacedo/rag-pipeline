@@ -1,0 +1,15 @@
+This is a sample document for testing the RAG pipeline.
+
+Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval
+with text generation. It works by first retrieving relevant documents from a knowledge base,
+then using those documents as context for a large language model to generate accurate,
+grounded responses.
+
+Key benefits of RAG:
+- Reduces hallucinations by grounding responses in real data
+- Allows LLMs to access domain-specific knowledge without fine-tuning
+- Keeps responses up-to-date by updating the document store
+- Provides traceable sources for every answer
+
+This pipeline uses Google Gemini as the LLM and FAISS as the vector store for fast
+similarity search across document embeddings.
